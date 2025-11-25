@@ -4,6 +4,7 @@
 This project investigates Zudio’s retail store performance, customer purchasing behavior, and product sales patterns using Python and MySQL. The goal is to deliver actionable insights for business improvement and support strategic decision-making through advanced data analytics and interactive visualization dashboards.
 
 **Objectives**
+
 ● Analyze customer purchase behavior and segment top customers.
 
 ● Examine monthly and seasonal sales trends.
@@ -17,21 +18,24 @@ This project investigates Zudio’s retail store performance, customer purchasin
 ● Develop interactive dashboards to present overall business trends.
 
 **Tools and Technologies Used**
+
 **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL
 **Visualization:** Tableau (dashboard), Matplotlib, Seaborn
 **Data Cleaning:** Pandas, SQL queries
-**File Types:** CSV, XLSX, IPYNB, SQL
+**File Types:** CSV, IPYNB, SQL
 
 **Files and Folders**
 
 Folder	File Description
 
-/data/	Contains all Zudio CSV datasets: orders, products, customers, stores.
-/notebooks/	Zudio.ipynb Jupyter notebook with code, analysis, and data visualizations.
-/sql/Script.sql/	SQL scripts for data extraction and analysis in MySQL.
-/dashboard/	Zudio Tableau Dashboard (interactive data exploration).
-/reports/	Final report summarizing project findings and business recommendations.
-/images/	Exported charts and graphics for use in presentations and reports.
+| Folder           | File Description                                                           |
+| ---------------- | -------------------------------------------------------------------------- |
+| /data/           | Contains all Zudio CSV datasets: orders, products, customers, stores.      |
+| /notebooks/      | Zudio.ipynb Jupyter notebook with code, analysis, and data visualizations. |
+| /sql/Script.sql/ | SQL scripts for data extraction and analysis in MySQL.                     |
+| /dashboard/      | Zudio Tableau Dashboard (interactive data exploration).                    |
+| /reports/        | Final report summarizing project findings and business recommendations.    |
+| /images/         | Exported charts and graphics for use in presentations and reports.         |
 
 **Analysis Workflow**
 
