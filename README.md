@@ -1,7 +1,5 @@
-# Zudio-Retail-Store-Performance-Analysis
+# Zudio Retail Data Analysis Project.
 
-
-# Zudio Retail Data Analysis Project
 **Overview**
 This project investigates Zudio’s retail store performance, customer purchasing behavior, and product sales patterns using Python and MySQL. The goal is to deliver actionable insights for business improvement and support strategic decision-making through advanced data analytics and interactive visualization dashboards.
 
@@ -25,7 +23,9 @@ This project investigates Zudio’s retail store performance, customer purchasin
 **File Types:** CSV, XLSX, IPYNB, SQL
 
 **Files and Folders**
+
 Folder	File Description
+
 /data/	Contains all Zudio CSV datasets: orders, products, customers, stores.
 /notebooks/	Zudio.ipynb Jupyter notebook with code, analysis, and data visualizations.
 /sql/Script.sql/	SQL scripts for data extraction and analysis in MySQL.
@@ -34,6 +34,7 @@ Folder	File Description
 /images/	Exported charts and graphics for use in presentations and reports.
 
 **Analysis Workflow**
+
 ● **Data Preparation:** Import, inspect, and clean raw datasets; handle missing values and unify data formats.
 
 ● **Sales Trends:** Analyze monthly and seasonal product sales for inventory and marketing optimization.
@@ -47,6 +48,7 @@ Folder	File Description
 ● **Visualization Dashboard:** Build Tableau dashboard for interactive exploration of all major KPIs.
 
 **Key Visualizations**
+
 ● Monthly and seasonal sales trend charts
 
 ● Top product and category revenue bar plots
@@ -58,6 +60,7 @@ Folder	File Description
 ● Interactive Tableau dashboard highlighting performance metrics
 
 **Results and Insights**
+
 ● Clear peak seasons and monthly cycles drive product sales.
 
 ● Top customers contribute a significant portion of overall revenue.
